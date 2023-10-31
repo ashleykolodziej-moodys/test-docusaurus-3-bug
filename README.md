@@ -1,0 +1,1 @@
+# test-docusaurus-3-bug
